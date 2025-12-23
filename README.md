@@ -29,8 +29,7 @@ The architecture enables effective utilization of conversation history for sarca
 
 # 📊 Dataset
 
-The original research evaluates the model on Twitter and Reddit datasets from the FigLang 2020 Shared Task.
-This repository focuses on model implementation and experimentation. Dataset files are not included due to licensing constraints.
+The data was taken from kaggle, Reddit data 
 
 
 # 🛠 Requirements
