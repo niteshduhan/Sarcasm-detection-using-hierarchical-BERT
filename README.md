@@ -47,11 +47,13 @@ Jupyter Notebook
 
 # 📈 Output
 
+Model accuracy on testing data was : 72.05%
+
 Binary classification: Sarcastic / Non-Sarcastic
 
 Confidence scores using sigmoid probability
 
-Model evaluation using accuracy and F1-score
+Model evaluation using accuracy.
 
 # ⚠️ Disclaimer
 
